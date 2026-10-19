@@ -5,13 +5,17 @@ import API from '../api/axios';
 const GENRES = [
   'All',
   'Action',
-  'Sci-Fi',
-  'Adventure',
   'Drama',
-  'Biography',
-  'Animation',
+  'Comedy',
+  'Romance',
+  'Sci-Fi',
+  'Thriller',
   'Crime',
-  'Thriller'
+  'Horror',
+  'Adventure',
+  'Animation',
+  'Fantasy',
+  'Mystery'
 ];
 
 const Home = () => {
